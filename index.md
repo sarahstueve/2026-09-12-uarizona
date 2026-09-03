@@ -17,7 +17,7 @@ email: ["maliaca@arizona.edu","sarahstueve@arizona.edu"]    # boxed, comma-separ
 # Optional variables
 collaborative_notes: https://pad.carpentries.org/2026-09-12-uarizona-swc # URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 <!--eventbrite:           # alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)-->
-what3words:shunts.gathers.icon     # what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
+what3words: shunts.gathers.icon     # what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 # DON'T CHANGE THIS
 layout: workshop
 ---
